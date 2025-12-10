@@ -10,6 +10,7 @@ MARS (official) MIPS Assembler and Runtime Simulator
  # MY PROJECT README (Football Assembly)
  My files that I added to the customlang folder are FootballAssembly.java and FootballAssembly.jar.
  Once compiled in terminal, it works through language switcher on the Mars.jar simulation.
+ My example asm file is football.asm which can be ran after switching the language to Football Assembly.
 
  The following instructions are implemented: 
 set
